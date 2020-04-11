@@ -4,4 +4,6 @@ Spring MVC Experiment ...just for my experiment
 
 2nd Attemped. - SUCCESS (Jenkins can do a build process but can't make a .war file.)
 
-3rd Attemped.
+3rd Attemped. - FAILED (Jenkins can build a .war file but can't deploy it to Tomcat.)
+
+4th Attemped.
