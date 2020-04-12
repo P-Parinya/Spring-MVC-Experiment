@@ -14,5 +14,8 @@ Spring MVC Experiment ...just for my experiment
 
 7th Attemped. - FAILED (Jenkins can build a .war file but can't deploy it to Tomcat./The username you provided is not allowed to use the text-based Tomcat Manager (error 403).)
 
-8th Attemped.
+8th Attemped. - SUCCESS (Test on personal VM.)
+
+9th Attemped. - (Test on Outsource VM.)
+
 
