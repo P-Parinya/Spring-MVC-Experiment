@@ -16,6 +16,6 @@ Spring MVC Experiment ...just for my experiment
 
 8th Attemped. - SUCCESS (Test on personal VM.)
 
-9th Attemped. - (Test on Outsource VM.)
+9th Attemped. - (Test on Outsource VM.) FAILED.
 
-
+10th Attemped. - (Test on Outsource VM.) 
