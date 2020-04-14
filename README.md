@@ -1,1 +1,1 @@
-Spring MVC Experiment ...just for my experiment
+Spring MVC Experiment
